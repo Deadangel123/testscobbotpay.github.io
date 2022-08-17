@@ -1,2 +1,2 @@
-# testscobbotpay.github.sc
+# testscobbotpay.github.io
 
